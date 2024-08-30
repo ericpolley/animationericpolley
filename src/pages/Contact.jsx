@@ -7,8 +7,8 @@ export default function Contact() {
        <div className='w-full text-center'>
       <h1 className='text-2xl font-medium'>Contact</h1>
 
-<p className='md:m-24 sm:m-8 '> <a
-      href="mailto:ericpolley@live"
+      <p className='md:m-24 sm:m-8 '> <a
+      href="mailto:ericpolley@live.com"
       className=" text-4xl font-bold text-blue-500 hover:text-blue-700 hover:shadow-lg transition-all duration-300"
     >
       ericpolley@live.com
